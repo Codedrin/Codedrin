@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
+###
+![snake gif](https://github.com/Codedrin/Codedrin/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
