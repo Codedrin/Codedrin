@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Aldrin Rosales and I'm a Filipino</h2>
+<h2 align="center">Hi 👋! My name is Aldrin Rosales Front-end Web Developer</h2>
 
 ###
 
